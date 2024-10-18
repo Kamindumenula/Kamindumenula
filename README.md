@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Kamindu Menula 👋</h1>
 <p align="center">
-  <img src="[https://github.com/your-username/your-repo/raw/main/gif/coding.gif](https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif?cid=790b76112c4gsb1ou3q3gvz7r1238ic10ru5837xw1su3fm1&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="300" alt="coding gif">
-</p>
+  <iframe src="https://giphy.com/embed/62PP2yEIAZF6g" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swag-80s-sunglasses-62PP2yEIAZF6g">via GIPHY</a></p>
 
 <p align="center">
   I'm a student at the Sri Lanka Institute of Information Technology, with a passion for Web Development and learning new technologies. I'm currently building my skills in various programming languages and tools.
