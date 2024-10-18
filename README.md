@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Kamindu Menula 👋</h1>
 <p align="center">
-  <iframe src="https://giphy.com/embed/62PP2yEIAZF6g" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swag-80s-sunglasses-62PP2yEIAZF6g">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="480" alt="Swag GIF">
+</p>
+
 
 <p align="center">
   I'm a student at the Sri Lanka Institute of Information Technology, with a passion for Web Development and learning new technologies. I'm currently building my skills in various programming languages and tools.
