@@ -18,11 +18,11 @@
 - 📧 Email: [kmenulagunasekara@gmail.com](mailto:kmenulagunasekara@gmail.com)
 
 ### 📊 GitHub Stats
-![Kamindu Menula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Kamindumenula]&show_icons=true&theme=radical)
+![Kamindu Menula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamindumenula&show_icons=true&theme=radical)
 
 ### ⚡ Top Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Kamindumenula]&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamindumenula&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=[Kamindumenula]&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kamindumenula&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
