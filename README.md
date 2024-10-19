@@ -43,6 +43,8 @@
 
 ### ⚡ Top Technologies
 ![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamindumenula&layout=compact&theme=radical)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamindumenula&repo=your-java-repository&theme=radical)
+
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Kamindumenula&theme=radical&no-frame=true&no-bg=true&margin-w=4)
