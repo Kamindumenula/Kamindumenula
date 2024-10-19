@@ -46,3 +46,7 @@
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Kamindumenula&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
