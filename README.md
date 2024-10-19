@@ -42,11 +42,11 @@
 ![Kamindu Menula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamindumenula&show_icons=true&theme=radical)
 
 ### ⚡ Top Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamindumenula&layout=compact&theme=radical)
+![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamindumenula&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Kamindumenula&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kamindumenula&color=blue)
 
