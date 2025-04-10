@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 - 🎓 I’m currently a student at **Sri Lanka Institute of Information Technology (SLIIT)**.
-- 🌐 I am passionate about **Web Development** and love building interactive and responsive websites.
+- 🌐 I am passionate about **Web Development** and **Mobile application Development**.
 
 ### 🛠️ Skills
 
