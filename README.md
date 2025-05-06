@@ -6,7 +6,7 @@
 <p align="center">
   🎓 Software Engineering undergraduate at <strong>Sri Lanka Institute of Information Technology (SLIIT)</strong><br/>
   🔧 Passionate about full-stack development, mobile apps, and building impactful solutions<br/>
-  🌱 Currently expanding my skills in cloud, DevOps, and data-driven systems
+  🌱 Currently expanding my skills in cloud, DevOps, AI models and data-driven systems
 </p>
 
 ---
@@ -20,6 +20,13 @@
 
 ---
 
+## 📌 Pinned Projects
+  [VideoHub: Yotube like dynamic WebApp](https://github.com/Kamindumenula/VideoHub-JavaProject)  
+  `Dynamic + Java + Live view + Real-time Updating`
+  -  [Smart-AgriConnect: MERN](https://github.com/Kamindumenula/Smart-AgriConnect)  
+  ` MERN + Weather Readers + Payments `
+---
+  
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -111,6 +118,20 @@
 [![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)]()
 
 ---
+
+## 🧠 Favorite Tech Quote
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
+> — *Martin Fowler*
+
+---
+
+## 🗺️ GitHub Contributions Map
+<a href="https://github.com/Kamindumenula">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Kamindumenula" alt="Skill Chart" />
+</a>
+
+---
+
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamindumenula/)
