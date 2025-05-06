@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Pinned Projects
-  [VideoHub: Yotube like dynamic WebApp](https://github.com/Kamindumenula/VideoHub-JavaProject)  
+  - [VideoHub: Yotube like dynamic WebApp](https://github.com/Kamindumenula/VideoHub-JavaProject)  
   `Dynamic + Java + Live view + Real-time Updating`
   -  [Smart-AgriConnect: MERN](https://github.com/Kamindumenula/Smart-AgriConnect)  
   ` MERN + Weather Readers + Payments `
